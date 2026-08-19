@@ -1,6 +1,6 @@
 # Adaptive Intelligence Lab
 
-Exploring adaptive AI architectures for decision intelligence that evolves with the human.
+Exploring what comes after context-aware AI: adaptive decision intelligence that evolves with the human
 
 This repository is a public exploration of ideas, frameworks, experiments, architectural patterns, and open questions around adaptive intelligence, decision systems, behavioral dynamics, causal reasoning, and human-centered AI.
 
